@@ -35,6 +35,17 @@ public class MainActivity extends Activity {
 
         // Use local resource
         // mWebView.loadUrl("file:///android_asset/www/index.html");
+        
+        // If we're getting error or Internet connection is not working.
+        // Make sure that you have /app/src/main/assets/www/error.html or change the URL.
+        /*
+        mWebView.setWebViewClient(new WebViewClient() {
+            public void onReceivedError(WebView view, int errorCode, String description, String failingUrl) {
+                mWebView.loadUrl("file:///android_asset/www/error.html");
+
+            }
+        });
+        */
     }
 
     // Prevent the back-button from closing the app
