@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c25057ba11414278a606d6a87bfd823e)](https://www.codacy.com/app/theel0ja/webview?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=theel0ja/webview&amp;utm_campaign=Badge_Grade)
+
 This is a template project for Android Studio that allows you to create an android webview application in minutes. You can use it to create a simple app for your website or as a starting point for your HTML5 based android app.
 
 ### Getting started
